@@ -13,3 +13,6 @@ Sample website with plenty of files for demos
 ## Deployment
 This is a sample website. Deployment can be done manually. 
 ## How to contribute
+
+## Copyright notice
+Copyright for training.

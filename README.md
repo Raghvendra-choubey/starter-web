@@ -12,7 +12,9 @@ Sample website with plenty of files for demos
 
 ## Deployment
 This is a sample website. Deployment can be done manually. 
+
 ## How to contribute
+You can contribute to the project by forking this project from github.
 
 ## Copyright notice
 Copyright for training.
